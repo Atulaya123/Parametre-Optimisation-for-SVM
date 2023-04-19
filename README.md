@@ -52,6 +52,8 @@ Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None,
 
 
 ![image](https://user-images.githubusercontent.com/115982827/233182707-cec2db7d-9cc6-4d6e-a861-b593773920b8.png)
+![image](https://user-images.githubusercontent.com/115982827/233183229-faf155a9-b930-4277-94c3-17c03b76f0b1.png)
+
 
 
 
