@@ -3,7 +3,7 @@ Optimization of Parametres For Support Vector Machines Using digits dataset
 
 
 
- Sample 1: Accuracy = 0.9666666666666667
+ Sample 1: Accuracy = 0.9666666666666667 
 Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
 --------------------------------------------------------------------------------
  Sample 2: Accuracy = 0.9518518518518518
