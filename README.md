@@ -1,4 +1,4 @@
-# Parametre-Optimisation-for-SVM
+# Parametre-Optimisation-for-SVM By Atulya Vaibhav Rai 102053035
 Optimization of Parametres For Support Vector Machines Using digits dataset
 
 
