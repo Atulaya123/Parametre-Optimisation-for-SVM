@@ -31,7 +31,9 @@ Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None,
 Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
 --------------------------------------------------------------------------------
 # Sample 10: Accuracy = 0.9574074074074074
-Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
+# Best parameters:  {'break_ties': False, 'cache_size': 200, 'class_weight': None, 'coef0': 0.0, 'decision_function_shape': 'ovr', 'degree': 3, 'gamma': 'scale', 'kernel': 'rbf', 'max_iter': 1000, 'nu': 0.5, 'probability': False, 'random_state': None, 'shrinking': True, 'tol': 0.001, 'verbose': False}
+
+
 
 ![image](https://user-images.githubusercontent.com/115982827/233164853-c9367998-0828-48e1-8b6e-8c84b5d1333b.png)
 ![image](https://user-images.githubusercontent.com/115982827/233165075-1fbcfcb4-fa07-49d1-b3c3-9652af6d2d6c.png)
